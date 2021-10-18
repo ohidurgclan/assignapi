@@ -1,0 +1,86 @@
+[
+    {
+        "key": "31201",
+        "name": "Integrated Operation Theatre",
+        "star": 4.2,
+        "details": "Integrated Operation Theatre at  Two way communications between operation theatre and the hospital network is the necessity of the today's world for continuous medical education. Storing video data in the data centre of school of telemedicine and two way transmission of video between Operation Theatre (OT) video hub (located adjacent to the OT) & School of Telemedicine were implemented. Streaming of live video from the telemedicine network can be accessed anywhere in the hospital. Data can be stored, archived and retrieved from any part of the hospital",
+        "img": "https://i.ibb.co/JFmRQQ5/service-01.jpg"
+    },
+    {
+        "key": "31202",
+        "name": "Neurologist Support",
+        "star": 4.8,
+        "details": "If you or a loved one has unexplained symptoms that could be related to the brain or nervous system, your doctor may recommend a neurological exam with a specialist. Neurologists are specialists who treat diseases of the brain and spinal cord, peripheral nerves and muscles. Neurological conditions include epilepsy, stroke, multiple sclerosis (MS) and Parkinson's disease.",
+        "img": "https://i.ibb.co/3zmNRjc/service-02.jpg"
+    },
+    {
+        "key": "31203",
+        "name": "Experienced Medic",
+        "star": 4.5,
+        "details": "Organising work experience in a medical setting during a pandemic can be a complete nightmare. Thus ensuring that you ask the right questions and make the most of your experience and get the best and most helpful experience you can is vital.It doesn’t matter if you’ve only managed to find experience for one or two days.",
+        "img": "https://i.ibb.co/Y3Nf15c/service-03.jpg"
+    },
+    {
+        "key": "31204",
+        "name": "Emergency Oxygen",
+        "star": 4.8,
+        "details": "Oxygen is the most commonly used drug in emergency medicine and when used judiciously in the treatment of hypoxaemia it undoubtedly saves life. However, oxygen is often used inappropriately and the dangers of over-oxygenation are unappreciated. In 2020, the first formal guidance on emergency oxygen use was produced by the British Thoracic Society.",
+        "img": "https://i.ibb.co/VDdXLFy/service-04.jpg"
+    },
+    {
+        "key": "31205",
+        "name": "Friendly Assistant",
+        "star": 4.2,
+        "details": "Friendly Assistant can cause coronary vasoconstriction. Paradoxically, therefore, giving too much helping at the time of an acute infarction may worsen oxygen delivery to the cardiac muscle. Use of high-flow oxygen has been associated with increased reperfusion injury, infarct size and mortality in myocardial infarction friendly.",
+        "img": "https://i.ibb.co/807y5RT/service-05.jpg"
+    },
+    {
+        "key": "31206",
+        "name": "Modern Equipment",
+        "star": 3.6,
+        "details": "Modern societies reap great benefits from technological advancements. The healthcare sector is no different. SevenHills Hospital incorporates the latest technology and medical equipment in patient care that helps the doctors diagnose diseases and treat patients effectively and efficiently.",
+        "img": "https://i.ibb.co/qF4ZM1r/service-06.jpg"
+    },
+    {
+        "key": "31207",
+        "name": "Mental Support",
+        "star": 4.9,
+        "details": "Going through cancer is often described as an emotional roller coaster, with many ups and downs. As a caregiver, you may see your loved one go through a wide range of emotions. While this can be difficult for both of you, your willingness to listen and offer support will make a difference.",
+        "img": "https://i.ibb.co/pRMV7BP/service-07.jpg"
+    },
+    {
+        "key": "31208",
+        "name": "Cardiac Specialist",
+        "star": 4.1,
+        "details": "Our Hospital has the best cardiologists, We providing specialized inpatient and outpatient heart care and long term management of the conditions. We offer the latest techniques and cardiac care to patients of all ages. We treat patients with common heart problems such as angina to rare heart conditions.",
+        "img": "https://i.ibb.co/s5H4SkC/service-08.jpg"
+    },
+    {
+        "key": "31209",
+        "name": "Certified Doctors",
+        "star": 4.3,
+        "details": "We has the best certified doctors, We providing specialized inpatient and outpatient heart care and long term management of the conditions. We offer the latest techniques and health care to patients of all ages. We treat patients with common health problems to rare health conditions.",
+        "img": "https://i.ibb.co/KVT1CFr/service-09.jpg"
+    },
+    {
+        "key": "31210",
+        "name": "Special Child Care",
+        "star": 3.7,
+        "details": "An important aspect that many center-based child cares have been trying to implement into their mission statement and everyday routine has been of being aware of the multiple cultures they will be dealing with. This was seen as being important because of the growing numbers of families considering and seeking childcare.",
+        "img": "https://i.ibb.co/Nt50TCX/service-10.jpg"
+    },
+    {
+        "key": "31211",
+        "name": "Dental Care",
+        "star": 2.8,
+        "details": "Being proactive about your mouth health will have you smiling for years to come. That's because regular dental check-ups by qualified dental professionals can improve your overall health and well-being by catching problems before they start.",
+        "img": "https://i.ibb.co/MPQShD6/service-11.jpg"
+    },
+    {
+        "key": "31212",
+        "name": "Emergency Ambulance",
+        "star": 2.8,
+        "details": "Generally, vehicles count as an ambulance if they can transport patients. However, it varies by jurisdiction as to whether a non-emergency patient transport vehicle is counted as an ambulance. These vehicles are not usually equipped with life-support equipment,",
+        "img": "https://i.ibb.co/M7K4kqj/service-12.jpg"
+    }
+]
