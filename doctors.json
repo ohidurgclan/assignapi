@@ -1,0 +1,92 @@
+[
+    {
+        "key": "20801",
+        "name": "Justin Beckham",
+        "role": "Cardiology Specialist",
+        "mail": "info@justin801.com",
+        "phone": "+44 1632 910154",
+        "fax": "+44 1632 910155",
+        "remark": "Cardiac patients should be advised about and have the opportunity to access a comprehensive cardiovascular prevention and rehabilitation programme, addressing all aspects of lifestyle smoking cessation, healthy eating, and being physically active together with more effective management of blood pressure, lipids, and glucose.",
+        "img": "https://i.ibb.co/ckZTxby/doctor-1.jpg"
+    },
+    {
+        "key": "20802",
+        "name": "Smith Johnson",
+        "role": "Dermatologist",
+        "mail": "info@smith802.com",
+        "phone": "+44 1632 920156",
+        "fax": "+44 1632 920157",
+        "remark": "A doctor who specializes in skin care, called a dermatologist, can be a big help with your psoriasis.In addition to discussing any medical or cosmetic concerns you may have, we recommend asking your dermatologist these six questions during your annual appointment.",
+        "img": "https://i.ibb.co/pRXC3c3/doctor-2.jpg"
+    },
+    {
+        "key": "20803",
+        "name": "Jennifer Winds",
+        "role": "Neurology Specialist",
+        "mail": "info@winds803.com",
+        "phone": "+44 1632 930158",
+        "fax": "+44 1632 930159",
+        "remark": "Neurologists say that our brains are programmed much more for stories than for abstract ideas. Tales with a little drama are remembered far longer than any slide crammed with analytics.psychologist and neural activity as analyzed by the neurologist.",
+        "img": "https://i.ibb.co/pwhY5zT/doctor-3.jpg"
+    },
+    {
+        "key": "20804",
+        "name": "Edward Willey",
+        "role": "Medicine Specialist",
+        "mail": "info@willey804.com",
+        "phone": "+44 1632 940161",
+        "fax": "+44 1632 940162",
+        "remark": "Plant medicine does not just improve symptoms; it approaches healing the whole of the body - as opposed to Western medicine, which may just approach the symptom. There is huge merit in both Eastern and Western medicine, and I've taken a little bit from both.",
+        "img": "https://i.ibb.co/1TSbypS/doctor-4.jpg"
+    },
+    {
+        "key": "20805",
+        "name": "Merry Anderson",
+        "role": "Gastrologic Specialist",
+        "mail": "info@merry805.com",
+        "phone": "+44 1632 950171",
+        "fax": "+44 1632 952012",
+        "remark": "Diseases affecting the gastrointestinal tract, which include the organs from mouth into anus, along the alimentary canal, are the focus of this speciality. Physicians practicing in this field are called gastroenterologists.",
+        "img": "https://i.ibb.co/zrtFKgQ/doctor-5.jpg"
+    },
+    {
+        "key": "20806",
+        "name": "David Blackwell",
+        "role": "Cosmetic Specialist",
+        "mail": "info@dravid806.com",
+        "phone": "+44 1632 960181",
+        "fax": "+44 1632 962062",
+        "remark": "I need to see my own beauty and to continue to be reminded that I am enough, that I am worthy of love without effort, that I am beautiful, that the texture of my hair and that the shape of my curves, the size of my lips, the color of my skin, and the feelings.",
+        "img": "https://i.ibb.co/kMcMHvp/doctor-6.jpg"
+    },
+    {
+        "key": "20807",
+        "name": "Freddie Anderson",
+        "role": "Pathologic Specialist",
+        "mail": "info@freddie807.com",
+        "phone": "+44 1632 970192",
+        "fax": "+44 1632 982362",
+        "remark": "The examination of tissue plays a very important role in your medical care. The information found in your pathology report will help you and your doctor determine the direction of your care. Your pathologist will examine your tissue by eye and under a microscope.",
+        "img": "https://i.ibb.co/ZfBwgTY/doctor-7.jpg"
+    },
+    {
+        "key": "20808",
+        "name": "Nick Winds",
+        "role": "Anatomy Specialist",
+        "mail": "info@nick808.com",
+        "phone": "+44 1632 980132",
+        "fax": "+44 1632 932372",
+        "remark": "The attention given to the side of the head which has received the injury, in connection with a specific reference to the side of the body nervously affected, is in itself evidence that in this case the ancient surgeon was already beginning observations on the localization of functions in the brain.",
+        "img": "https://i.ibb.co/j8pVk99/doctor-8.jpg"
+    },
+    {
+        "key": "20809",
+        "name": "Abdalla Abena",
+        "role": "Anesthesiologist",
+        "mail": "info@abena809.com",
+        "phone": "+44 1632 992132",
+        "fax": "+44 1632 972352",
+        "remark": "Accurate and thorough documentation is an essential element of high quality and safe medical care, and accordingly a basic responsibility of physician anesthesiologists. Anesthesia care is a continuum including three general phases of care: preanesthesia, intraoperative/intraprocedural anesthesia and postanesthesia care.",
+        "img": "https://i.ibb.co/Ws0SQ6J/doctor-9.jpg"
+    }
+]
